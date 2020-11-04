@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sfat_Adelina_Lab5", "Sfat_Adelina_Lab5.csproj", "{84FFDA11-5BE6-493D-8CA8-53F94715FDCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84FFDA11-5BE6-493D-8CA8-53F94715FDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84FFDA11-5BE6-493D-8CA8-53F94715FDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84FFDA11-5BE6-493D-8CA8-53F94715FDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84FFDA11-5BE6-493D-8CA8-53F94715FDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3113AAD3-F60E-494C-B7B9-BC841FEE96F8}
+	EndGlobalSection
+EndGlobal
